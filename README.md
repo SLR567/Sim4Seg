@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/arXiv-2511.06665-b31b1b.svg)](https://arxiv.org/abs/2511.06665)
 [![GitHub](https://img.shields.io/badge/GitHub-Sim4Seg-blue?logo=github)](https://github.com/SLR567/Sim4Seg)
 
-<p align="center"> <img src="imgs/model_archi1.pdf" width="100%"> </p>
+<p align="center"> <img src="imgs/figure2.jpg" width="100%"> </p>
 
 
 
@@ -23,8 +23,8 @@ Despite significant progress in pixel-level medical image analysis, existing med
 * We design a test-time scaling strategy specifically for medical image diagnosis and segmentation, leading to higher performance.
 
 ## 😮 Experimental results
-* Case study of our framework.
-<p align="center"> <img src="imgs/case_study_appendix.pdf" width="90%"> </p>
+* Detailed ablation result on each sub-set of M3DS dataset.
+<p align="center"> <img src="imgs/table3.jpg" width="90%"> </p>
 
 For more details, please refer to the [paper](https://arxiv.org/abs/2511.06665).
 
